@@ -34,7 +34,7 @@ public class PrintRect {
 		}
 }
 
-PaintRectangularInConsole// Вывод наккуратного прямоугольника.
+PaintRectangularInConsole// Вывод неаккуратного прямоугольника.
 =========================
 package print;
 
